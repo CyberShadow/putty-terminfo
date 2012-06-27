@@ -1,3 +1,4 @@
+#!/usr/bin/tic -v
 #	Reconstructed via infocmp from file: /lib/terminfo/x/xterm
 xterm-putty|xterm clone (win32),
 	am,
